@@ -38,6 +38,8 @@ The Online Library Management System (OLMS) is a web-based application developed
 
 ## Installation Guide
 
+### Kindly Extract The Files First as The Shared Content is in a Zip File
+
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/SughumanMahajan/online-library-management-system-collegeproject.git
